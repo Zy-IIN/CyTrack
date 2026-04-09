@@ -111,7 +111,7 @@ python train_task1.py
 
 Due to the large size of the dataset (~25GB), we provide:
 
-- **Sample data** (included in this repository):\sample_data
+- **Sample data** (included in this repository):/sample_data/
 - **Full dataset** (raw data and preprocessed data, hosted on a secure server): <u>https://gofile.me/6YCsl/TciBR8E8S</u>, entry password upon request.
 
 ### Post-Acceptance Access

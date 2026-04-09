@@ -102,7 +102,7 @@ We provide processed features with the following pipeline:
 ### Example Usage
 
 ```
-python benchmark_dual_task.ipynb
+jupyter nbconvert --to script benchmark_dual_task.ipynb
 ```
 
 ------

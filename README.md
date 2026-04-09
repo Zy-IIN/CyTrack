@@ -1,4 +1,4 @@
-# CyTrack: A Multimodal VR Cybersickness Dataset
+# CyTrack: A Multimodal Dataset for Continuous Cybersickness Tracking in Virtual Reality
 
 This repository serves as the official project page for the CyTrack dataset, including documentation, preprocessing scripts, and benchmark implementations required for reproducibility.
 
@@ -111,8 +111,8 @@ python train_task1.py
 
 Due to the large size of the dataset (~25GB), we provide:
 
-- Sample data subset (included in this repository):\sample_data
-- Full dataset (raw data and preprocessed data, hosted on a secure server): <u>https://gofile.me/6YCsl/TciBR8E8S</u>, entry password upon request.
+- **Sample data** (included in this repository):\sample_data
+- **Full dataset** (raw data and preprocessed data, hosted on a secure server): <u>https://gofile.me/6YCsl/TciBR8E8S</u>, entry password upon request.
 
 ### Post-Acceptance Access
 
@@ -126,7 +126,7 @@ If you use this dataset, please cite:
 
 ```
 @inproceedings{cytrack2026,
-  title={CyTrack: A Multimodal VR Cybersickness Dataset},
+  title={CyTrack: A Multimodal Dataset for Continuous Cybersickness Tracking in Virtual Reality},
   author={...},
   booktitle={ACM Multimedia},
   year={2026}
